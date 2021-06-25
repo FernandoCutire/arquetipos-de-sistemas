@@ -12,9 +12,10 @@ Para poder correr este modelo, es necesario tener instalado vensim, nosotros usa
 Dentro del repositorio encontrarás el modelo en vensim para que puedas probarlo en tu vensim, así mismo de una explicación de los modelos que te ayuden a replicar y emplear el modelo. 
 
 
-## 😊 Créditos
-Este trabajo fue desarrollado por Fernando Cutire y Hellinger St Rose, para el curso de sistemas dinámicos dictado por el profesor Modaldo Tuñónusando vensim PLE.
 
+## 😊 Autores
+```Este trabajo fue desarrollado por Fernando Cutire y Hellinger St Rose, para el curso de sistemas dinámicos dictado por el profesor Modaldo Tuñónusando vensim PLE.
+```
 
 
 
