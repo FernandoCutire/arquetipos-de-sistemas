@@ -14,8 +14,8 @@ Dentro del repositorio encontrarás el modelo en vensim para que puedas probarlo
 
 
 ## 😊 Autores
-```Este trabajo fue desarrollado por Fernando Cutire y Hellinger St Rose, para el curso de sistemas dinámicos dictado por el profesor Modaldo Tuñónusando vensim PLE.
-```
+Este trabajo fue desarrollado por -[Fernando Cutire](https://github.com/FernandoCutire) y [Hellynger St. Rose](https://github.com/Hellynger), para el curso de sistemas dinámicos dictado por el profesor Modaldo Tuñónusando vensim PLE.
+
 
 
 
