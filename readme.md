@@ -6,9 +6,9 @@ Modelo de límites de éxito y crecimiento y subinversión en Vensim
 
 El inventario de una empresa es parte crucial de empresas que se dedican a la venta minorista y/o mayorista. La simulación de sistemas resulta de gran importancia para poder guiar a ejecutivos y encargados del inventario a tomar las mejores decisiones con respecto al mismo. Nuestro trabajo es el desarrollo de un modelo en Vensim, empleando arquetipos y moléculas del ámbito de la dinámica de sistemas para pronosticar tendencias respecto a variables como la productividad media que nos dan como resultados predicciones importantes sobre el inventario, personal y la escasez de trabajadores.
 
-*Palabras clave: Arquetipos, moléculas, inventario, simulación.*
+**Palabras clave: Arquetipos, moléculas, inventario, simulación.**
 
-##Abstract: 
+## Abstract 
 The inventory of a company is a crucial part of companies that are dedicated to retail and / or wholesale. Systems simulation is of great importance in guiding inventory managers and executives to make the best inventory decisions. Our work is the development of a model in Vensim, using archetypes and molecules from the field of system dynamics to forecast trends regarding variables such as average productivity that give us important predictions about inventory, personnel and the shortage of workers. 
 
 ## 🔨 Instalación
